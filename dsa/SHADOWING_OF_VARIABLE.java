@@ -25,3 +25,10 @@ public class SHADOWING_OF_VARIABLE {
 
     }
 }
+//output 
+// 30
+// 20
+// 30
+// 10
+// 100
+// 300
