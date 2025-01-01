@@ -1,6 +1,6 @@
 package com.dsa;
 
-public class methods {
+public class  methods {
 //    public static void main(String[] args) {
 //////        sum(2,675);
 //////        difference(30,21);
@@ -28,6 +28,8 @@ public class methods {
 //        String MSG = "hello abc";
 //        return MSG;
 //    }}
+
+
 
 
 

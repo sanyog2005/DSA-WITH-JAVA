@@ -12,7 +12,7 @@ public class SHADOWING_OF_VARIABLE {
         scope();
         System.out.println(z); //will print z as 100 as declared in class SHADOWING_OF_VARIABLE
         int z;
-//        System.out.println(z); here we cannot use it as scope hasn't begin yet
+//        System.out.println(z); //here we cannot use it as scope hasn't begin yet
         z=300;
         System.out.println(z);// now after value has been assinged to z the scope has begin and value has been shadowed
 
