@@ -8,6 +8,7 @@ public class inputcall {
 
         int a = sc.nextInt();
         System.out.println(a);
+        System.out.print(a);
         //nextint for inpt int
         //next to print string till it find space
         //
